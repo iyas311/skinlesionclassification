@@ -1,0 +1,8 @@
+# Ignore the ham directory containing the dataset
+ham/
+
+# Ignore Python virtual environment
+myenv/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
